@@ -1,6 +1,6 @@
 #Add Implementation
 diff add(x,y);
-pass
+return x+y
 
 #Subtract Implementatipn
 diff subtract(x,y);
